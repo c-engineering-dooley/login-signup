@@ -41,7 +41,7 @@
 }
 
 .input{
-    display: flex;
+    display: flex; 
     align-items: center;
     margin: auto;
     width: 480px;
@@ -86,10 +86,10 @@
     transform: translate(-3px,-100px);
 } */
 
-/* .forgot-password span{
+.forgot-password span{
     color: #f7d829;
     cursor: pointer;
-} */
+}
 
 .submit-container{
     display: flex;
