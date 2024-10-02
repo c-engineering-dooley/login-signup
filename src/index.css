@@ -8,6 +8,7 @@ body {
   height: fit-content;
   background: url(Components/Assets/Wallpapers/yellow.jpg) no-repeat center center;
   background-size: cover;
+  background-position: center;
   /* background: linear-gradient(#f8d92a, #f9b729); */
 }
 
