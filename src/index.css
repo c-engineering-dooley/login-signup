@@ -6,7 +6,7 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   height: fit-content;
-  background: url("/Users/chazdooley/Desktop/login_signup/login-signup/src/Components/Assets/Wallpapers/yellow.jpg") no-repeat center center;
+  background: url("/Users/chazdooley/Desktop/login-signup/src/Components/Assets/Wallpapers/yellow.jpg") no-repeat center center;
   background-size: cover;
   /* background: linear-gradient(#f8d92a, #f9b729); */
 }
